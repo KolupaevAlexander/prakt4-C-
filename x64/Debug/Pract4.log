@@ -1,0 +1,4 @@
+﻿  Pract4.cpp
+C:\Users\st310-05\Desktop\kolupaev\C++\Pract4\Pract4.cpp(57,23): warning C4476: "fprintf": неизвестный символ поля типа "=" в описателе формата
+C:\Users\st310-05\Desktop\kolupaev\C++\Pract4\Pract4.cpp(60,27): warning C4476: "fprintf": неизвестный символ поля типа "/" в описателе формата
+  Pract4.vcxproj -> C:\Users\st310-05\Desktop\kolupaev\C++\Pract4\x64\Debug\Pract4.exe
